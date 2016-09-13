@@ -18,8 +18,8 @@ Created By ClayTeam ;) Ez.
 
 **Other Links**
 
--Youtube: https://youtube.com/channel/UCjBOxyh9umG4xSGifbqB_FA
+- Youtube: https://youtube.com/channel/UCjBOxyh9umG4xSGifbqB_FA
 
--Twitter: https://twitter.com/Cl4yTeam
+- Twitter: https://twitter.com/Cl4yTeam
 
--Telegram: https://telegram.com/ClayTeam
+- Telegram: https://telegram.com/ClayTeam
